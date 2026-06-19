@@ -1,0 +1,1 @@
+Configurando roteador pela CLI
